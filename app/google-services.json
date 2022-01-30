@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035903158689",
+    "project_id": "qring-01",
+    "storage_bucket": "qring-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035903158689:android:10c44e279e990a6ccda3e0",
+        "android_client_info": {
+          "package_name": "com.example.qring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035903158689-a9fn2htr0nqgga97kdsbk4l5quog1htg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ98ryapVi20Q-8_XFOm5X23Lyf4uqs38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035903158689-a9fn2htr0nqgga97kdsbk4l5quog1htg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
